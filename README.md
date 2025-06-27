@@ -27,7 +27,7 @@ Here's a preview of the chatbot in action:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Vikranth3140/Mental-Health-Support-Chatbot.git
+git clone https://github.com/Sohith67/Mental-Health-Support-Chatbot.git
 cd Mental-Health-Support-Chatbot
 ```
 
