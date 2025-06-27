@@ -14,6 +14,12 @@ This project is a Mental Health Support Chatbot built using **Streamlit** and **
 * **Session Summaries**: Review chat history and mood logs during the session.
 * **Helpful Resources**: Quick links to mental health support organizations.
 
+## 📸 Screenshot
+
+Here's a preview of the chatbot in action:
+![Uploading Screenshot (175).png…]()
+
+
 ---
 
 ## 🚀 Installation
